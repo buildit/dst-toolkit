@@ -14,7 +14,7 @@
     {
       "style": "style1",
       "img": {
-        "src": "Iterate-1.jpg",
+        "src": "/images-iterate/Iterate-1.jpg",
         "alt": "Test"
       },
       "actions": {
@@ -26,7 +26,7 @@
     {
       "style": "style2",
       "img": {
-        "src": "Iterate-2.jpg",
+        "src": "/images-iterate/Iterate-2.jpg",
         "alt": "Test"
       },
       "actions": {
@@ -38,7 +38,7 @@
     {
       "style": "style3",
       "img": {
-        "src": "Iterate-3.jpg",
+        "src": "/images-iterate/Iterate-3.jpg",
         "alt": "Test"
       },
       "actions": {

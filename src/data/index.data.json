@@ -93,7 +93,11 @@
       "copy": {
         "headingTwo": "Prototype<br />Make something",
         "paragraph": "The Prototype phase is the iterative generation of artifacts, use cases intended to for the Persona to build out the idea connected with the problem statement."
-      }
+      },
+      "actions": [
+        {"anchor": "Work &amp; Photos", "href": "prototypes.html", "class": "button special"},
+        {"anchor": "Assets <span>(Dropbox)</span>", "href": "https://www.dropbox.com/sh/erpgfiufdqjnpn8/AACh6KHBb8kmruw01nwdqS__a?dl=0", "class": "button", "target": "_blank"}
+      ]
     },
     {
       "styles": {
@@ -107,7 +111,11 @@
       "copy": {
         "headingTwo": "Test<br />Ask the user",
         "paragraph": "Return to your users foor feedback.<br />Listen, adapt, retry. Be bold again. Iterate."
-      }
+      },
+      "actions": [
+        {"anchor": "Work &amp; Photos", "href": "test.html", "class": "button special"},
+        {"anchor": "Assets <span>(Dropbox)</span>", "href": "https://www.dropbox.com/sh/erpgfiufdqjnpn8/AACh6KHBb8kmruw01nwdqS__a?dl=0", "class": "button", "target": "_blank"}
+      ]
     },
     {
       "styles": {
@@ -121,7 +129,11 @@
       "copy": {
         "headingTwo": "Iterate / Implement<br />Make it real",
         "paragraph": "Put your vision into effect. Fail quick. Iterate.<br />Go back if needed. Succeed."
-      }
+      },
+      "actions": [
+        {"anchor": "Work &amp; Photos", "href": "iterate.html", "class": "button special"},
+        {"anchor": "Assets <span>(Dropbox)</span>", "href": "https://www.dropbox.com/sh/erpgfiufdqjnpn8/AACh6KHBb8kmruw01nwdqS__a?dl=0", "class": "button", "target": "_blank"}
+      ]
     }
   ]
 }
