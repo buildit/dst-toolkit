@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gulp compile",
-    "serve": "gulp serve:app",
+    "start": "gulp",
     "deploy:staging": "echo 'Ask Lucio for deploying to the RIG  ¯\\_(ツ)_/¯'"
   },
   "keywords": [
@@ -21,13 +21,13 @@
   "author": "Marcos Peebles",
   "license": "MIT",
   "devDependencies": {
+    "del": "3.0.0",
     "gulp": "^3.9.1",
-    "gulp-foreach": "^0.1.0",
     "gulp-mustache": "^2.3.0",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^3.1.0",
     "gulp-webserver": "^0.9.1",
     "merge-stream": "^1.0.1",
-    "mustache": "^2.3.0"
+    "mustache": "^2.3.0",
+    "path": "0.12.7"
   }
 }
