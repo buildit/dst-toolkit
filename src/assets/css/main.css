@@ -1662,7 +1662,8 @@ font-weight:normal; font-style:normal
 			width: 100%;
 			text-align: center;
 			height: 4em;
-			background-image: url("images/footer.svg");
+			<!-- todo fix with appropriate logo-->
+			/*background-image: url("images/footer.svg");*/
 			background-repeat: no-repeat;
 			background-size: cover;
 			background-position: 0px 0px;
@@ -1807,7 +1808,8 @@ font-weight:normal; font-style:normal
 				width: 100%;
 				text-align: center;
 				height: 4em;
-				background-image: url("images/footer.svg");
+				<!--  TODO Fix with appropriate logo -->
+				/*background-image: url("images/footer.svg");*/
 				background-repeat: no-repeat;
 			}
 
