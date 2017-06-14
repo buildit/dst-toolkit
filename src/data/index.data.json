@@ -42,7 +42,7 @@
       },
       "actions": [
         {"anchor": "Work &amp; Photos", "href": "empathize.html", "class": "button special"},
-        {"anchor": "Assets <span>(Dropbox)</span>", "href": "https://www.dropbox.com/sh/erpgfiufdqjnpn8/AACh6KHBb8kmruw01nwdqS__a?dl=0", "class": "button", "target": "_blank"}
+        {"anchor": "Assets <span>(Dropbox)</span>", "href": "https://www.dropbox.com/sh/bjdd72dqc5icr73/AACMNI-Rl9ivJZh0dXicZ73Da?dl=0", "class": "button", "target": "_blank"}
       ]
     },
     {
@@ -60,7 +60,7 @@
       },
       "actions": [
         {"anchor": "Work &amp; Photos", "href": "define.html", "class": "button special"},
-        {"anchor": "Assets <span>(Dropbox)</span>", "href": "https://www.dropbox.com/sh/w49tsxfayauzxtb/AADKhe3YpRJiTfaHwha6EMOWa?dl=0", "class": "button", "target": "_blank"}
+        {"anchor": "Assets <span>(Dropbox)</span>", "href": "https://www.dropbox.com/sh/fk50soh5inlr0f1/AACi2H1wpnCfYWMTxxsCXBZma?dl=0", "class": "button", "target": "_blank"}
       ]
     },
     {
@@ -78,7 +78,7 @@
       },
       "actions": [
         {"anchor": "Work &amp; Photos", "href": "ideate.html", "class": "button special"},
-        {"anchor": "Assets <span>(Dropbox)</span>", "href": "https://www.dropbox.com/sh/okivo5aispkupw8/AABJA94v5ri3D_sDdPc_LKLja?dl=0", "class": "button", "target": "_blank"}
+        {"anchor": "Assets <span>(Dropbox)</span>", "href": "https://www.dropbox.com/sh/1hmrwyow6qji11t/AADjcrTWtaXGq6lyDQSRkimia?dl=0", "class": "button", "target": "_blank"}
       ]
     },
     {
@@ -96,7 +96,7 @@
       },
       "actions": [
         {"anchor": "Work &amp; Photos", "href": "prototypes.html", "class": "button special"},
-        {"anchor": "Assets <span>(Dropbox)</span>", "href": "https://www.dropbox.com/sh/erpgfiufdqjnpn8/AACh6KHBb8kmruw01nwdqS__a?dl=0", "class": "button", "target": "_blank"}
+        {"anchor": "Assets <span>(Dropbox)</span>", "href": "#", "class": "button", "target": "_blank"}
       ]
     },
     {
@@ -114,7 +114,7 @@
       },
       "actions": [
         {"anchor": "Work &amp; Photos", "href": "test.html", "class": "button special"},
-        {"anchor": "Assets <span>(Dropbox)</span>", "href": "https://www.dropbox.com/sh/erpgfiufdqjnpn8/AACh6KHBb8kmruw01nwdqS__a?dl=0", "class": "button", "target": "_blank"}
+        {"anchor": "Assets <span>(Dropbox)</span>", "href": "#", "class": "button", "target": "_blank"}
       ]
     },
     {
@@ -132,7 +132,7 @@
       },
       "actions": [
         {"anchor": "Work &amp; Photos", "href": "iterate.html", "class": "button special"},
-        {"anchor": "Assets <span>(Dropbox)</span>", "href": "https://www.dropbox.com/sh/erpgfiufdqjnpn8/AACh6KHBb8kmruw01nwdqS__a?dl=0", "class": "button", "target": "_blank"}
+        {"anchor": "Assets <span>(Dropbox)</span>", "href": "#", "class": "button", "target": "_blank"}
       ]
     }
   ]
