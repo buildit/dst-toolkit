@@ -21,11 +21,11 @@
       {
         "style": "style1",
         "img": {
-          "src": "images-ideate/ideate_idea1.png",
+          "src": "images-ideate/placeholder.jpg",
           "alt": "Ideate"
         },
         "actions": {
-          "href": "https://www.dropbox.com/sh/emf6s6khzcf42he/AABLTLkk_GsINSJB_DfgiIYWa?dl=0",
+          "href": "#",
           "title": "Download on Dropbox",
           "target": "_blank",
           "anchor": "<p>As a supplier...</p>"
@@ -34,11 +34,11 @@
       {
         "style": "style4",
         "img": {
-          "src": "images-ideate/ideate_idea2.png",
+          "src": "images-ideate/placeholder.jpg",
           "alt": "Ideate"
         },
         "actions": {
-          "href": "https://www.dropbox.com/sh/emf6s6khzcf42he/AABLTLkk_GsINSJB_DfgiIYWa?dl=0",
+          "href": "#",
           "title": "Download on Dropbox",
           "target": "_blank",
           "anchor": "<p>As a stakeholder...</p>"
@@ -47,11 +47,11 @@
       {
         "style": "style5",
         "img": {
-          "src": "images-ideate/ideate_idea3.png",
+          "src": "images-ideate/placeholder.jpg",
           "alt": "Ideate"
         },
         "actions": {
-          "href": "https://www.dropbox.com/sh/emf6s6khzcf42he/AABLTLkk_GsINSJB_DfgiIYWa?dl=0",
+          "href": "#",
           "title": "Download on Dropbox",
           "target": "_blank",
           "anchor": "<p>As an operator...</p>"
@@ -65,11 +65,11 @@
       {
         "style": "style1",
         "img": {
-          "src": "images-ideate/ideate_mapping2.png",
+          "src": "images-ideate/placeholder.jpg",
           "alt": "Ideate"
         },
         "actions": {
-          "href": "https://www.dropbox.com/sh/emf6s6khzcf42he/AABLTLkk_GsINSJB_DfgiIYWa?dl=0",
+          "href": "#",
           "title": "Download on Dropbox",
           "target": "_blank",
           "anchor": "<h4>Fairy OGA Father</h4><p>Data sharing through a common platform</p>"
@@ -78,11 +78,11 @@
       {
         "style": "style4",
         "img": {
-          "src": "images-ideate/ideate_mapping3.png",
+          "src": "images-ideate/placeholder.jpg",
           "alt": "Ideate"
         },
         "actions": {
-          "href": "https://www.dropbox.com/sh/emf6s6khzcf42he/AABLTLkk_GsINSJB_DfgiIYWa?dl=0",
+          "href": "#",
           "title": "Download on Dropbox",
           "target": "_blank",
           "anchor": "<h4>D Bay</h4><p>Online market and bidings for decommissioning</p>"
@@ -91,11 +91,11 @@
       {
         "style": "style5",
         "img": {
-          "src": "images-ideate/ideate_mapping4.png",
+          "src": "images-ideate/placeholder.jpg",
           "alt": "Ideate"
         },
         "actions": {
-          "href": "https://www.dropbox.com/sh/emf6s6khzcf42he/AABLTLkk_GsINSJB_DfgiIYWa?dl=0",
+          "href": "#",
           "title": "Download on Dropbox",
           "target": "_blank",
           "anchor": "<h4>Operators<br>new clothes</h4><p>Open Source sharing assets and best practices</p>"
@@ -104,11 +104,11 @@
       {
         "style": "style6",
         "img": {
-          "src": "images-ideate/ideate_mapping5.png",
+          "src": "images-ideate/placeholder.jpg",
           "alt": "Ideate"
         },
         "actions": {
-          "href": "https://www.dropbox.com/sh/emf6s6khzcf42he/AABLTLkk_GsINSJB_DfgiIYWa?dl=0",
+          "href": "#",
           "title": "Download on Dropbox",
           "target": "_blank",
           "anchor": "<h4>Tinder for Decom</h4><p>Connect interested parties</p>"
@@ -120,11 +120,11 @@
     {
       "style": "style1",
       "img": {
-        "src": "images-ideate/ideate_mapping6.png",
+        "src": "images-ideate/placeholder.jpg",
         "alt": "Ideate"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/emf6s6khzcf42he/AABLTLkk_GsINSJB_DfgiIYWa?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }

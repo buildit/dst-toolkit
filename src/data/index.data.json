@@ -16,7 +16,7 @@
         "class": "style1 center"
       },
       "img": {
-        "src": "sunbury/intro.jpg",
+        "src": "sunbury/placeholder.jpg",
         "position": "30% 50%"
       },
       "copy": {
@@ -33,7 +33,7 @@
         "class": "style2 left"
       },
       "img": {
-        "src": "sunbury/empathize.jpg",
+        "src": "sunbury/placeholder.jpg",
         "position": "center"
       },
       "copy": {
@@ -51,7 +51,7 @@
         "class": "style2 left"
       },
       "img": {
-        "src": "sunbury/define.jpg",
+        "src": "sunbury/placeholder.jpg",
         "position": "left"
       },
       "copy": {
@@ -69,7 +69,7 @@
         "class": "style2 left"
       },
       "img": {
-        "src": "sunbury/ideate.jpg",
+        "src": "sunbury/placeholder.jpg",
         "position": "left"
       },
       "copy": {
@@ -87,7 +87,7 @@
         "class": "style2 left"
       },
       "img": {
-        "src": "sunbury/prototype.png",
+        "src": "sunbury/placeholder.jpg",
         "position": "left"
       },
       "copy": {
@@ -105,7 +105,7 @@
         "class": "style2 left"
       },
       "img": {
-        "src": "sunbury/test.jpg",
+        "src": "sunbury/placeholder.jpg",
         "position": "left"
       },
       "copy": {
@@ -123,7 +123,7 @@
         "class": "style2 left"
       },
       "img": {
-        "src": "sunbury/iterate.jpg",
+        "src": "sunbury/placeholder.jpg",
         "position": "left"
       },
       "copy": {

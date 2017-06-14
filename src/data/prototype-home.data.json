@@ -24,8 +24,6 @@
     }
   ],
   "bgvideo": {
-    "mp4file": "./assets/media/proto1.m4v",
-    "oggfile": "./assets/media/proto1.ogv",
-    "webmfile": "./assets/media/proto1.webm"
+    "mp4file": "./assets/media/placeholder.mp4"
   }
 }

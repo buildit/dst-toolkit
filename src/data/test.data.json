@@ -14,11 +14,11 @@
     {
       "style": "style1",
       "img": {
-        "src": "images-test/Test-1.jpg",
+        "src": "images-test/placeholder.jpg",
         "alt": "Test"
       },
       "actions": {
-        "href": "https://drive.google.com/drive/folders/0By8LlR9KAcXCU1BocHdnOV80c28",
+        "href": "#",
         "title": "Download on Google Drive",
         "target": "_blank"
       }
@@ -26,11 +26,11 @@
     {
       "style": "style2",
       "img": {
-        "src": "images-test/Test-2.jpg",
+        "src": "images-test/placeholder.jpg",
         "alt": "Test"
       },
       "actions": {
-        "href": "https://drive.google.com/drive/folders/0By8LlR9KAcXCU1BocHdnOV80c28",
+        "href": "#",
         "title": "Download on Google Drive",
         "target": "_blank"
       }
@@ -38,11 +38,11 @@
     {
       "style": "style3",
       "img": {
-        "src": "images-test/Test-3.jpg",
+        "src": "images-test/placeholder.jpg",
         "alt": "Test"
       },
       "actions": {
-        "href": "https://drive.google.com/drive/folders/0By8LlR9KAcXCU1BocHdnOV80c28",
+        "href": "#",
         "title": "Download on Google Drive",
         "target": "_blank"
       }

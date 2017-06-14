@@ -8,9 +8,12 @@
     "headingTwoB": "Idea to test",
     "paragraphB": "Prototype a simple consumption tracking app to accompany the new heat-not-burn device. The first tests suggested iteration with more of an emphasis on pleasure than health.",
     "headingTwoC": "Storyboard",
-    "imgSrc": "Prototype-12.jpg",
+    "imgSrc": "placeholder.jpg",
     "actions": [
-      {"anchor": "View Walkthrough", "href": "https://drive.google.com/file/d/0By8LlR9KAcXCcEJFRGxTOGtmRUk/view"}
+      {
+        "anchor": "View Walkthrough",
+        "href": "#"
+      }
     ]
   },
   "nav": {
@@ -19,7 +22,7 @@
     }
   },
   "demo": {
-    "href": "https://drive.google.com/file/d/0By8LlR9KAcXCcEJFRGxTOGtmRUk/view",
+    "href": "#",
     "slides": [
       "pic01.jpg", "pic02.jpg", "pic03.jpg", "pic04.jpg", "pic03.jpg", "pic04.jpg"
     ]

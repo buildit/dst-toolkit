@@ -8,17 +8,17 @@
   },
   "header": {
     "headingOne": "After testing the prototypes already evolved...",
-    "paragraph": "The group discussed and tested each others prototoypes. There seemed to be an appetite for the Retail Engagement idea and also at the NPG allied with a subscription model. Now it's up to YOU to make it happen..."
+    "paragraph": "The group discussed and tested each others prototypes. There seemed to be an appetite for the Retail Engagement idea and also at the NPG allied with a subscription model. Now it's up to YOU to make it happen..."
   },
   "tiles": [
     {
       "style": "style1",
       "img": {
-        "src": "/images-iterate/Iterate-1.jpg",
+        "src": "/images-iterate/placeholder.jpg",
         "alt": "Test"
       },
       "actions": {
-        "href": "https://drive.google.com/drive/folders/0By8LlR9KAcXCR05WcjJnNzBJd3M",
+        "href": "#",
         "title": "Download on Google Drive",
         "target": "_blank"
       }
@@ -26,11 +26,11 @@
     {
       "style": "style2",
       "img": {
-        "src": "/images-iterate/Iterate-2.jpg",
+        "src": "/images-iterate/placeholder.jpg",
         "alt": "Test"
       },
       "actions": {
-        "href": "https://drive.google.com/drive/folders/0By8LlR9KAcXCR05WcjJnNzBJd3M",
+        "href": "#",
         "title": "Download on Google Drive",
         "target": "_blank"
       }
@@ -38,11 +38,11 @@
     {
       "style": "style3",
       "img": {
-        "src": "/images-iterate/Iterate-3.jpg",
+        "src": "/images-iterate/placeholder.jpg",
         "alt": "Test"
       },
       "actions": {
-        "href": "https://drive.google.com/drive/folders/0By8LlR9KAcXCR05WcjJnNzBJd3M",
+        "href": "#",
         "title": "Download on Google Drive",
         "target": "_blank"
       }

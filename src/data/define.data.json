@@ -14,11 +14,11 @@
     {
       "style": "style1",
       "img": {
-        "src": "images-define/define_ideate1.png",
+        "src": "images-define/placeholder.jpg",
         "alt": "Define"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/5c1d1pi0s7f8z2w/AAA65TS7CM64lehH2bkRu4MRa?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank",
         "anchor": "<h2>(re)define</h2>"
@@ -27,11 +27,11 @@
     {
       "style": "style2",
       "img": {
-        "src": "images-define/define_ideate2.png",
+        "src": "images-define/placeholder.jpg",
         "alt": "Define Tool"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/5c1d1pi0s7f8z2w/AAA65TS7CM64lehH2bkRu4MRa?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }
@@ -39,11 +39,11 @@
     {
       "style": "style3",
       "img": {
-        "src": "images-define/define_ideate3.png",
+        "src": "images-define/placeholder.jpg",
         "alt": "Define Map"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/5c1d1pi0s7f8z2w/AAA65TS7CM64lehH2bkRu4MRa?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }
@@ -51,11 +51,11 @@
     {
       "style": "style4",
       "img": {
-        "src": "images-define/define_ideate4.png",
+        "src": "images-define/placeholder.jpg",
         "alt": "Define"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/5c1d1pi0s7f8z2w/AAA65TS7CM64lehH2bkRu4MRa?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }
@@ -63,11 +63,11 @@
     {
       "style": "style5",
       "img": {
-        "src": "images-define/define_problem_statement1.png",
+        "src": "images-define/placeholder.jpg",
         "alt": "Define"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/5c1d1pi0s7f8z2w/AAA65TS7CM64lehH2bkRu4MRa?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }
@@ -75,11 +75,11 @@
     {
       "style": "style6",
       "img": {
-        "src": "images-define/define_problem_statement2.png",
+        "src": "images-define/placeholder.jpg",
         "alt": "Define"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/5c1d1pi0s7f8z2w/AAA65TS7CM64lehH2bkRu4MRa?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }
@@ -87,11 +87,11 @@
     {
       "style": "style2",
       "img": {
-        "src": "images-define/define_problem_statement3.png",
+        "src": "images-define/placeholder.jpg",
         "alt": "Define"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/5c1d1pi0s7f8z2w/AAA65TS7CM64lehH2bkRu4MRa?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }
@@ -99,11 +99,11 @@
     {
       "style": "style3",
       "img": {
-        "src": "images-define/define_problem_statement4.png",
+        "src": "images-define/placeholder.jpg",
         "alt": "Define"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/5c1d1pi0s7f8z2w/AAA65TS7CM64lehH2bkRu4MRa?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }
@@ -111,11 +111,11 @@
     {
       "style": "style1",
       "img": {
-        "src": "images-define/define_problem_statement5.png",
+        "src": "images-define/placeholder.jpg",
         "alt": "Define"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/5c1d1pi0s7f8z2w/AAA65TS7CM64lehH2bkRu4MRa?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }
@@ -123,11 +123,11 @@
     {
       "style": "style4",
       "img": {
-        "src": "images-define/define_problem_statement6.png",
+        "src": "images-define/placeholder.jpg",
         "alt": "Define"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/5c1d1pi0s7f8z2w/AAA65TS7CM64lehH2bkRu4MRa?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank",
         "anchor": "<h2>From 12 to 3 Opportunites</h2>"

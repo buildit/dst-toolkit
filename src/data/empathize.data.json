@@ -9,7 +9,7 @@
   "header": {
     "headingOne": "We started with 3 initial problem statements.",
     "img": {
-      "src": "images-empathize/assumption_map.jpg",
+      "src": "images-empathize/placeholder.jpg",
       "alt": "Assumption Map - Empathize"
     },
     "paragraph": "We used an assumption map in order to initiate the conversations. Assumptiom mapping helps deepen the understanding of the users needs and the risks associated with addressing those needs. Ultimately, this helps teams understand where to focus their efforts in order to increase learning and deliver greater value. We then discussed different point of views that could be in play when looking to empathize, i.e. who, what would we want to achieve, under what circumstances. We highlighted on the empathize print outs which group are in play as they empathize the challenges (providers/operators). The output of this session serves as a base to (re)define the problem statement in the define phase."
@@ -18,11 +18,11 @@
     {
       "style": "style1",
       "img": {
-        "src": "images-empathize/empathy_wall.png",
+        "src": "images-empathize/placeholder.jpg",
         "alt": "Empathize"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/87ogqnm3rk1ecbo/AAD2hahMMhfXl4Gq6TBxUPtya?dl=0",
+        "href": "#",
         "anchor": "<h2>Empathy Map</h2>",
         "title": "Empathy POV"
       }
@@ -30,33 +30,33 @@
     {
       "style": "style2",
       "img": {
-        "src": "images-empathize/empathize_empathy_empathy_map1.png",
+        "src": "images-empathize/placeholder.jpg",
         "alt": "Empathize Tool"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/87ogqnm3rk1ecbo/AAD2hahMMhfXl4Gq6TBxUPtya?dl=0",
+        "href": "#",
         "title": "Empathy POV"
       }
     },
     {
       "style": "style3",
       "img": {
-        "src": "images-empathize/empathize_empathy_empathy_map2.png",
+        "src": "images-empathize/placeholder.jpg",
         "alt": "Empathize Map"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/87ogqnm3rk1ecbo/AAD2hahMMhfXl4Gq6TBxUPtya?dl=0",
+        "href": "#",
         "title": "Empathy Map"
       }
     },
     {
       "style": "style4",
       "img": {
-        "src": "images-empathize/empathize_empathy_interview1.png",
+        "src": "images-empathize/placeholder.jpg",
         "alt": "Empathize"
       },
       "actions": {
-                "href": "https://www.dropbox.com/sh/87ogqnm3rk1ecbo/AAD2hahMMhfXl4Gq6TBxUPtya?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }
@@ -64,11 +64,11 @@
     {
       "style": "style5",
       "img": {
-        "src": "images-empathize/empathize_empathy_interview2.png",
+        "src": "images-empathize/placeholder.jpg",
         "alt": "Empathize"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/87ogqnm3rk1ecbo/AAD2hahMMhfXl4Gq6TBxUPtya?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }
@@ -76,11 +76,11 @@
     {
       "style": "style6",
       "img": {
-        "src": "images-empathize/empathize_empathy_interview3.png",
+        "src": "images-empathize/placeholder.jpg",
         "alt": "Empathize"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/87ogqnm3rk1ecbo/AAD2hahMMhfXl4Gq6TBxUPtya?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank",
         "anchor": "<h2>Empathy interview</h2>"
@@ -89,11 +89,11 @@
     {
       "style": "style1",
       "img": {
-        "src": "images-empathize/empathize_empathy_persona_pov1.png",
+        "src": "images-empathize/placeholder.jpg",
         "alt": "Empathize"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/87ogqnm3rk1ecbo/AAD2hahMMhfXl4Gq6TBxUPtya?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }
@@ -101,11 +101,11 @@
     {
       "style": "style2",
       "img": {
-        "src": "images-empathize/empathize_empathy_persona_pov2.png",
+        "src": "images-empathize/placeholder.jpg",
         "alt": "Empathize"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/87ogqnm3rk1ecbo/AAD2hahMMhfXl4Gq6TBxUPtya?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank",
         "anchor": "<h2>empathy persona point of view</h2>"
@@ -114,11 +114,11 @@
     {
       "style": "style3",
       "img": {
-        "src": "images-empathize/empathize_empathy_persona_pov3.png",
+        "src": "images-empathize/placeholder.jpg",
         "alt": "Empathize"
       },
       "actions": {
-        "href": "https://www.dropbox.com/sh/87ogqnm3rk1ecbo/AAD2hahMMhfXl4Gq6TBxUPtya?dl=0",
+        "href": "#",
         "title": "Download on Dropbox",
         "target": "_blank"
       }
